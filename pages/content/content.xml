@@ -1,0 +1,620 @@
+<site>
+ <posts />
+ <pages customHeadHtml="">
+  <page author="" caption="Home" customHeadHtml="" dateModified="08/28/2015 13:53:51" description="" keywords="" metaTags="" name="new-page" path="/new-page" showInHmenu="True" showInVmenu="True" showTitle="True" title="Computational ecology from a computer-bound ecologist." titleInBrowser="Computational ecology from a computer-bound ecologist.">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { margin-bottom: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#8FA14E;border-right-color:#8FA14E;border-bottom-color:#8FA14E;border-left-color:#8FA14E; color: #090906; background: #B3C181; border-spacing: 0px 10px; border-collapse: separate;  }
+.art-content .art-postcontent-0 .layout-item-2 { border-right-style:solid;border-right-width:1px;border-right-color:#8FA14E; color: #090906; padding-right: 10px;padding-left: 10px;  }
+.art-content .art-postcontent-0 .layout-item-3 { color: #10100C;  }
+.art-content .art-postcontent-0 .layout-item-4 { color: #10100C; padding-right: 10px;padding-left: 10px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;&lt;img style="float: left; margin-top: 5px; margin-right: 20px; margin-bottom: 5px; margin-left: 5px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(187, 189, 164); border-right-color: rgb(187, 189, 164); border-bottom-color: rgb(187, 189, 164); border-left-color: rgb(187, 189, 164); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; " width="264" height="198" alt="At workstation" class="art-lightbox" src="./images/6bc87c79-af71-421a-943e-b9ab726751e8.png"&gt;
+        &lt;/p&gt;&lt;p&gt;
+         
+        &lt;/p&gt;&lt;p style="padding-left: 20px;"&gt;I am a chronically ill computational ecologist, currently without . I have adapted to my physical restrictions by leveraging my computational ecologist skills to substitute a virtual presence for my physical presence. My general research interests are community ecology, macroecology, ecoinformatics, computational ecology and open access. Macroecologists typically use long-term or large scale ecological data sets to identify general temporal and spatial patterns to identify pattern-generating processes. I prefer to work at regional or continental scales, and tend to use large, publicly available datasets for a variety of taxa. I am interested in using a computational approach to understand of the commonness and rarity of species across space and time.&lt;/p&gt;
+         
+        &lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-3"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 50%" &gt;
+        &lt;span style="font-weight: bold; font-variant: small-caps;"&gt;&lt;span style="font-size: 14px; color: #434918;"&gt;Important tools in a macroecologist's toolbox:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
+         
+        &lt;ul&gt;
+        &lt;li style="text-align: left;"&gt;Computer programming (I use &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;, but there are lots of options).&lt;/li&gt;&lt;li style="list-style: none"&gt;Database management skills (&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/"&gt;SQlite&lt;/a&gt; is friendly, and plays well with &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;).&lt;br&gt;&lt;/li&gt;&lt;li style="list-style: none"&gt;Version control (my favorite is &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt;, but pick your favorite and enjoy).&lt;br&gt;&lt;/li&gt;&lt;li style="list-style: none"&gt;Data, data, and more data (with a big thanks to everyone involved in data collection and data access- in a shameless plug for some Weecology &amp;nbsp;products, the &lt;a href="http://ecodataretriever.org/"&gt;EcoData Retriever&lt;/a&gt; and &lt;a href="http://www.ecologicaldata.org/"&gt;Ecological Data wiki&lt;/a&gt; are great resources to find and use publicly available datasets ).&amp;nbsp;&lt;br&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 50%" &gt;
+        &lt;blockquote style="text-align: left;"&gt;
+         Who can explain why one species ranges widely and is very numerous, and why another allied species has a narrow range and is rare? Yet these relations are of the highest importance, for they determine the present welfare and, as I believe, the future success and modification of every inhabitant of this world." &amp;nbsp; &amp;nbsp; &amp;nbsp;Charles Darwin, &lt;span style="text-decoration: underline;"&gt;The Origin of Species&lt;/span&gt; (1859)
+        &lt;/blockquote&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-3"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img style="float: left; margin-top: 5px; margin-right: 20px; margin-bottom: 5px; margin-left: 5px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(187, 189, 164); border-right-color: rgb(187, 189, 164); border-bottom-color: rgb(187, 189, 164); border-left-color: rgb(187, 189, 164); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; " width="264" height="198" alt="At workstation" class="art-lightbox" src="6bc87c79-af71-421a-943e-b9ab726751e8.png"&gt;
+&lt;/p&gt;&lt;p&gt;
+ 
+&lt;/p&gt;&lt;p style="padding-left: 20px;"&gt;I am a chronically ill computational ecologist, currently without . I have adapted to my physical restrictions by leveraging my computational ecologist skills to substitute a virtual presence for my physical presence. My general research interests are community ecology, macroecology, ecoinformatics, computational ecology and open access. Macroecologists typically use long-term or large scale ecological data sets to identify general temporal and spatial patterns to identify pattern-generating processes. I prefer to work at regional or continental scales, and tend to use large, publicly available datasets for a variety of taxa. I am interested in using a computational approach to understand of the commonness and rarity of species across space and time.&lt;/p&gt;
+ 
+&lt;p&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;span style="font-weight: bold; font-variant: small-caps;"&gt;&lt;span style="font-size: 14px; color: #434918;"&gt;Important tools in a macroecologist's toolbox:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
+ 
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;Computer programming (I use &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;, but there are lots of options).&lt;/li&gt;&lt;li style="list-style: none"&gt;Database management skills (&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/"&gt;SQlite&lt;/a&gt; is friendly, and plays well with &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;).&lt;br&gt;&lt;/li&gt;&lt;li style="list-style: none"&gt;Version control (my favorite is &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt;, but pick your favorite and enjoy).&lt;br&gt;&lt;/li&gt;&lt;li style="list-style: none"&gt;Data, data, and more data (with a big thanks to everyone involved in data collection and data access- in a shameless plug for some Weecology &amp;nbsp;products, the &lt;a href="http://ecodataretriever.org/"&gt;EcoData Retriever&lt;/a&gt; and &lt;a href="http://www.ecologicaldata.org/"&gt;Ecological Data wiki&lt;/a&gt; are great resources to find and use publicly available datasets ).&amp;nbsp;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+     <content>&lt;blockquote style="text-align: left;"&gt;
+ Who can explain why one species ranges widely and is very numerous, and why another allied species has a narrow range and is rare? Yet these relations are of the highest importance, for they determine the present welfare and, as I believe, the future success and modification of every inhabitant of this world." &amp;nbsp; &amp;nbsp; &amp;nbsp;Charles Darwin, &lt;span style="text-decoration: underline;"&gt;The Origin of Species&lt;/span&gt; (1859)
+&lt;/blockquote&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="Research" customHeadHtml="" dateModified="08/28/2015 11:55:40" description="" keywords="" metaTags="" name="new-page" path="/new-page/new-page" showInHmenu="True" showInVmenu="True" showTitle="True" title="Current Research" titleInBrowser="Current Research">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;Because I believe that science can advance more quickly when it is open, current and former projects are all available on my&amp;nbsp;&lt;span style="color: rgb(88, 99, 48);"&gt;&lt;a href="https://github.com/embaldridge/commonness-and-rarity"&gt;&lt;span style="color: rgb(103, 112, 16);"&gt;GitHub&lt;/span&gt; &lt;span style="color: rgb(109, 112, 81);"&gt;repository&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Check it out&lt;a href="https://github.com/embaldridge/commonness-and-rarity"&gt;&lt;span style="color: rgb(88, 99, 48);"&gt;&lt;/span&gt;&lt;/a&gt;&amp;nbsp;for more information or if you are interested in collaborating.&lt;/p&gt;
+
+&lt;p&gt;I am currently interested in the relatedness of the space and time scales that are relevant at an organismal level.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;Because I believe that science can advance more quickly when it is open, current and former projects are all available on my&amp;nbsp;&lt;span style="color: rgb(88, 99, 48);"&gt;&lt;a href="https://github.com/embaldridge/commonness-and-rarity"&gt;&lt;span style="color: rgb(103, 112, 16);"&gt;GitHub&lt;/span&gt; &lt;span style="color: rgb(109, 112, 81);"&gt;repository&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Check it out&lt;a href="https://github.com/embaldridge/commonness-and-rarity"&gt;&lt;span style="color: rgb(88, 99, 48);"&gt;&lt;/span&gt;&lt;/a&gt;&amp;nbsp;for more information or if you are interested in collaborating.&lt;/p&gt;
+
+&lt;p&gt;I am currently interested in the relatedness of the space and time scales that are relevant at an organismal level.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+     <pages>
+      <page author="" caption="Master's research" customHeadHtml="" dateModified="08/28/2015 11:47:38" description="" keywords="" metaTags="" name="new-page-2" path="/new-page/new-page/new-page-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Master's research" titleInBrowser="Master's research">
+       <pageHead></pageHead>
+       <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;For my master's thesis, I studied the nested subset pattern, which occurs when the most species rich site contains all species, and less species rich sites contain a proper subset of the species observed at all richer sites. I concluded that while the traditional processes thought to cause nestedness, ordered immigration and extinction, could produce the pattern,&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width="462" height="148" alt="" src="./images/DAIEnest6-2.png" class=""&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;by observing the pattern at multiple scales, it is also possible that stochastic immigration and extinction and indirectly producting the nested subset pattern by influencing the distribution and abundance of species. &amp;nbsp;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width="680" height="145" alt="" src="./images/DAIEnest3.png" class=""&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Rare species tend to be idiosyncratic with respect to the species richness at a site,&amp;nbsp;such that the common species are easily predicted (tend to occur at the majority of sites), but the rare species can occur at the most species rich site to the least species rich site. &amp;nbsp;Thus, I concluded that the nested subset pattern is not useful for predicting the occurrence of rare species at a given site.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width="686" height="639" alt="" src="./images/Predictive-4.png" class=""&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+       <layout>
+        <struct>{content}</struct>
+        <contents>
+         <content>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;For my master's thesis, I studied the nested subset pattern, which occurs when the most species rich site contains all species, and less species rich sites contain a proper subset of the species observed at all richer sites. I concluded that while the traditional processes thought to cause nestedness, ordered immigration and extinction, could produce the pattern,&amp;nbsp;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width="462" height="148" alt="" src="DAIEnest6-2.png" class=""&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;by observing the pattern at multiple scales, it is also possible that stochastic immigration and extinction and indirectly producting the nested subset pattern by influencing the distribution and abundance of species. &amp;nbsp;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width="680" height="145" alt="" src="DAIEnest3.png" class=""&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Rare species tend to be idiosyncratic with respect to the species richness at a site,&amp;nbsp;such that the common species are easily predicted (tend to occur at the majority of sites), but the rare species can occur at the most species rich site to the least species rich site. &amp;nbsp;Thus, I concluded that the nested subset pattern is not useful for predicting the occurrence of rare species at a given site.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width="686" height="639" alt="" src="Predictive-4.png" class=""&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+        </contents>
+       </layout>
+      </page>
+      <page author="" caption="Doctoral research" customHeadHtml="" dateModified="08/28/2015 11:55:19" description="" keywords="" metaTags="" name="doctoral-research" path="/new-page/new-page/doctoral-research" showInHmenu="True" showInVmenu="True" showTitle="True" title="Doctoral research" titleInBrowser="Doctoral research">
+       <pageHead></pageHead>
+       <content>&lt;p&gt;For my dissertation research, I competed different models of the species abundance distribution with a wide range of taxonomic groups to determine which model best described the distribution of species abundance in an ecological community.&lt;/p&gt;&lt;p&gt;The video of my defense is provided below, and has been fully closed-captioned.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;All additional material, including handouts of the slides, a copy of the dissertation, source code, etc. are available at &lt;span style="color: #73823F;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="color: #73823F;"&gt;&lt;a href="https://github.com/weecology/sad-comparison"&gt;https://github.com/weecology/sad-comparison&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tkXUD0MSRCo?wmode=transparent" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/p&gt;</content>
+       <layout>
+        <struct>{content}</struct>
+        <contents>
+         <content>&lt;p&gt;For my dissertation research, I competed different models of the species abundance distribution with a wide range of taxonomic groups to determine which model best described the distribution of species abundance in an ecological community.&lt;/p&gt;&lt;p&gt;The video of my defense is provided below, and has been fully closed-captioned.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;All additional material, including handouts of the slides, a copy of the dissertation, source code, etc. are available at &lt;span style="color: #73823F;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="color: #73823F;"&gt;&lt;a href="https://github.com/weecology/sad-comparison"&gt;https://github.com/weecology/sad-comparison&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tkXUD0MSRCo?wmode=transparent" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/p&gt;</content>
+        </contents>
+       </layout>
+      </page>
+     </pages>
+    </page>
+   </pages>
+  </page>
+  <page author="" caption="Calendar" customHeadHtml="" dateModified="11/03/2014 10:52:29" description="" keywords="" metaTags="" name="calendar" path="/calendar" showInHmenu="True" showInVmenu="True" showTitle="True" title="Calendar" titleInBrowser="Calendar">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br /&gt;
+&lt;iframe src="https://www.google.com/calendar/embed?title=Schedule&amp;amp;showTitle=0&amp;amp;showPrint=0&amp;amp;showTabs=0&amp;amp;showCalendars=0&amp;amp;mode=WEEK&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23ffffff&amp;amp;src=elita.baldridge%40weecology.org&amp;amp;color=%230F4B38&amp;amp;ctz=America%2FDenver" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br /&gt;
+&lt;iframe src="https://www.google.com/calendar/embed?title=Schedule&amp;amp;showTitle=0&amp;amp;showPrint=0&amp;amp;showTabs=0&amp;amp;showCalendars=0&amp;amp;mode=WEEK&amp;amp;height=600&amp;amp;wkst=1&amp;amp;bgcolor=%23ffffff&amp;amp;src=elita.baldridge%40weecology.org&amp;amp;color=%230F4B38&amp;amp;ctz=America%2FDenver" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="About me" customHeadHtml="" dateModified="08/28/2015 14:08:01" description="" keywords="" metaTags="" name="about-me" path="/about-me" showInHmenu="True" showInVmenu="True" showTitle="True" title="About me" titleInBrowser="About me">
+   <pageHead>&lt;script&gt;jQuery(function ($) {
+    'use strict';
+    if ($.fn.themeSlider) {
+        $(".art-slidecontainerDSCN1200").each(function () {
+            var slideContainer = $(this), tmp;
+            var inner = $(".art-slider-inner", slideContainer);
+            inner.children().filter("script").remove();
+            var helper = null;
+            
+            if ($.support.themeTransition) {
+                helper = new BackgroundHelper();
+                helper.init("fade", "next", $(".art-slide-item", inner).first().css($.support.themeTransition.prefix + "transition-duration"));
+                inner.children().each(function () {
+                    helper.processSlide($(this));
+                });
+
+                
+            } else if (browser.ie &amp;&amp; browser.version &lt;= 8) {
+                var slidesInfo = {
+".art-slideDSCN12000": {
+    "bgimage" : "url('images/slideDSCN12000.jpg')",
+    "bgposition": "0 0",
+    "images": "",
+    "positions": ""
+},
+".art-slideDSCN12001": {
+    "bgimage" : "url('images/slideDSCN12001.jpg')",
+    "bgposition": "0 0",
+    "images": "",
+    "positions": ""
+},
+".art-slideDSCN12002": {
+    "bgimage" : "url('images/slideDSCN12002.jpg')",
+    "bgposition": "0 0",
+    "images": "",
+    "positions": ""
+}
+                };
+                $.each(slidesInfo, function(selector, info) {
+                    processElementMultiplyBg(slideContainer.find(selector), info);
+                });
+            }
+
+            inner.children().eq(0).addClass("active");
+            slideContainer.themeSlider({
+                pause: 2600,
+                speed: 600,
+                repeat: true,
+                animation: "fade",
+                direction: "next",
+                navigator: slideContainer.siblings(".art-slidenavigatorDSCN1200"),
+                helper: helper
+            });
+            
+                        
+        });
+    }
+});
+&lt;/script&gt;&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { margin-bottom: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #10100C;  }
+.art-content .art-postcontent-0 .layout-item-2 { color: #10100C; padding-right: 10px;padding-left: 10px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+.art-slidecontainerDSCN1200 {
+    position: relative;
+        width: 677px;
+    height: 507px;
+        }
+
+.default-responsive .art-header .art-slidecontainerDSCN1200,
+.responsive .art-header .art-slidecontainerDSCN1200
+{
+  position: absolute !important;
+}
+
+.responsive .art-pageslider .art-slidecontainerDSCN1200 {
+  position: absolute !important;
+}
+
+.art-slidecontainerDSCN1200 .art-slide-item
+{
+
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    transform: rotate(0);
+}
+
+
+
+.art-slidecontainerDSCN1200 .art-slide-item {
+    -webkit-transition: 600ms ease-in-out opacity;
+    -moz-transition: 600ms ease-in-out opacity;
+    -ms-transition: 600ms ease-in-out opacity;
+    -o-transition: 600ms ease-in-out opacity;
+    transition: 600ms ease-in-out opacity;
+    position: absolute !important;
+    display: none;
+	left: 0;
+	top: 0;
+	opacity: 0;
+    width:  100%;
+    height: 100%;
+}
+
+.art-slidecontainerDSCN1200 .active, .art-slidecontainerDSCN1200 .next, .art-slidecontainerDSCN1200 .prev {
+    display: block;
+}
+
+.art-slidecontainerDSCN1200 .active {
+    opacity: 1;
+}
+
+.art-slidecontainerDSCN1200 .next, .art-slidecontainerDSCN1200 .prev {
+    width: 100%;
+}
+
+.art-slidecontainerDSCN1200 .next.forward, .art-slidecontainerDSCN1200 .prev.back {
+    opacity: 1;
+}
+
+.art-slidecontainerDSCN1200 .active.forward {
+    opacity: 0;
+}
+
+.art-slidecontainerDSCN1200 .active.back {
+    opacity: 0;
+}
+
+
+.art-slideDSCN12000 {
+    background-image:  url('images/slideDSCN12000.jpg');
+        /* background-size:  auto auto; */
+        background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+/* special setup for header/pageslider */
+.responsive .art-header .art-slideDSCN12000 {
+    background-image:  url('images/slideDSCN12000.jpg');
+    background-size: auto auto;
+    background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+.responsive .art-pageslider .art-slideDSCN12000 {
+    background-image:  url('images/slideDSCN12000.jpg');
+    background-size: auto auto;
+    background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+.default-responsive .art-header .art-slideDSCN12000 {
+    background-image: url('images/slideDSCN12000.jpg');
+    background-size: auto auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.default-responsive .art-pageslider .art-slideDSCN12000 {
+    background-image: url('images/slideDSCN12000.jpg');
+    background-size: auto auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}.art-slideDSCN12001 {
+    background-image:  url('images/slideDSCN12001.jpg');
+        /* background-size:  auto auto; */
+        background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+/* special setup for header/pageslider */
+.responsive .art-header .art-slideDSCN12001 {
+    background-image:  url('images/slideDSCN12001.jpg');
+    background-size: auto auto;
+    background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+.responsive .art-pageslider .art-slideDSCN12001 {
+    background-image:  url('images/slideDSCN12001.jpg');
+    background-size: auto auto;
+    background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+.default-responsive .art-header .art-slideDSCN12001 {
+    background-image: url('images/slideDSCN12001.jpg');
+    background-size: auto auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.default-responsive .art-pageslider .art-slideDSCN12001 {
+    background-image: url('images/slideDSCN12001.jpg');
+    background-size: auto auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}.art-slideDSCN12002 {
+    background-image:  url('images/slideDSCN12002.jpg');
+        /* background-size:  auto auto; */
+        background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+/* special setup for header/pageslider */
+.responsive .art-header .art-slideDSCN12002 {
+    background-image:  url('images/slideDSCN12002.jpg');
+    background-size: auto auto;
+    background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+.responsive .art-pageslider .art-slideDSCN12002 {
+    background-image:  url('images/slideDSCN12002.jpg');
+    background-size: auto auto;
+    background-position:  center center;
+    background-repeat: no-repeat;
+}
+
+.default-responsive .art-header .art-slideDSCN12002 {
+    background-image: url('images/slideDSCN12002.jpg');
+    background-size: auto auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.default-responsive .art-pageslider .art-slideDSCN12002 {
+    background-image: url('images/slideDSCN12002.jpg');
+    background-size: auto auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.art-slidenavigatorDSCN1200 {
+  display: inline-block;
+  position: absolute;
+  direction: ltr !important;
+  top: 483px;
+  left: 90.55%;
+  z-index: 101;
+  line-height: 0 !important;
+  -webkit-background-origin: border !important;
+  -moz-background-origin: border !important;
+  background-origin: border-box !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+    white-space: nowrap;
+    }
+.art-slidenavigatorDSCN1200
+{
+background: #B7C486;background: -webkit-linear-gradient(top, rgba(214, 221, 187, 0.6) 0, rgba(152, 171, 84, 0.6) 97%, rgba(149, 167, 82, 0.6) 100%) no-repeat;background: -moz-linear-gradient(top, rgba(214, 221, 187, 0.6) 0, rgba(152, 171, 84, 0.6) 97%, rgba(149, 167, 82, 0.6) 100%) no-repeat;background: -o-linear-gradient(top, rgba(214, 221, 187, 0.6) 0, rgba(152, 171, 84, 0.6) 97%, rgba(149, 167, 82, 0.6) 100%) no-repeat;background: -ms-linear-gradient(top, rgba(214, 221, 187, 0.6) 0, rgba(152, 171, 84, 0.6) 97%, rgba(149, 167, 82, 0.6) 100%) no-repeat;-svg-background: linear-gradient(top, rgba(214, 221, 187, 0.6) 0, rgba(152, 171, 84, 0.6) 97%, rgba(149, 167, 82, 0.6) 100%) no-repeat;background: linear-gradient(to bottom, rgba(214, 221, 187, 0.6) 0, rgba(152, 171, 84, 0.6) 97%, rgba(149, 167, 82, 0.6) 100%) no-repeat;
+-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;
+
+
+padding:7px;
+
+
+
+
+
+}
+.art-slidenavigatorDSCN1200 &gt; a
+{
+background: #73823F;
+-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;
+
+
+
+margin:0 10px 0 0;
+
+width: 10px;
+
+height: 10px;
+}
+.art-slidenavigatorDSCN1200 &gt; a.active
+{
+background: #C0CC63;
+-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;
+
+
+
+margin:0 10px 0 0;
+
+width: 10px;
+
+height: 10px;
+}
+.art-slidenavigatorDSCN1200 &gt; a:hover
+{
+background: #6D7051;
+-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;
+
+
+
+margin:0 10px 0 0;
+
+width: 10px;
+
+height: 10px;
+}
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        &lt;p&gt;I grew up in the Flint Hills of Kansas, and still love the open sky, wide expanses of treeless prairie, and the&amp;nbsp;constant Kansas wind. &amp;nbsp;I'm currently back in the Flint Hills, where , besides research, I'm taking care of Nubian goats, Cochin chickens, and am assisted by my beautiful and clever dog, Gypsy. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+         
+        &lt;p&gt;I did my undergraduate work at Kansas State University, where I initially wanted to go into veterinary medicine, changing my mind at the last semester to go to graduate school.&lt;/p&gt;
+         
+        &lt;p&gt;I did my master's work at Fort Hays State University with &lt;a href="http://bigcat.fhsu.edu/biology/rchannell/"&gt;Rob Channell&lt;/a&gt;, who introduced me to the wonderful world of macroecology, leading me to become a &lt;a href="http://weecology.org/"&gt;Weecologist&lt;/a&gt; in the &lt;a href="http://whitelab.weecology.org/"&gt;White lab&lt;/a&gt; at &lt;a href="http://www.usu.edu/"&gt;Utah State University&lt;/a&gt;, where I was a member of the &lt;a href="https://www.biology.usu.edu/"&gt;Biology Department&lt;/a&gt; and the &lt;a href="http://www.usu.edu/ecology/"&gt;Ecology Center&lt;/a&gt;&amp;nbsp;until I completed my Ph.D. in May 2015.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Currently, I'm an early career scientist trying to find gainful employment: a bit difficult to find a job regardless, but rather more so with a chronic illness. &amp;nbsp;I'm determined to make people say no to me until they get tired of me and start saying yes.&lt;/p&gt;
+         
+        &lt;p&gt;I believe that science can advance most quickly when researchers are willing to freely share data and ideas and am a major supporter of open science. &amp;nbsp;&lt;/p&gt;{collage_DSCN1200}
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+         
+        &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+         
+        &lt;p&gt;I was diagnosed with fibromyalgia in December 2013, after a certain amount of struggle to figure out what was going wrong in the first place. &amp;nbsp;Some of the story of how that has affected my ability to do research, and how I have adapted can be found here: &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/"&gt;http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/"&gt;http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/&lt;/a&gt;&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//"&gt;http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Links to addititional material can be found on my CV.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout-wrapper layout-item-0"&gt;
+&lt;div class="art-content-layout layout-item-1"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-2" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;I grew up in the Flint Hills of Kansas, and still love the open sky, wide expanses of treeless prairie, and the&amp;nbsp;constant Kansas wind. &amp;nbsp;I'm currently back in the Flint Hills, where , besides research, I'm taking care of Nubian goats, Cochin chickens, and am assisted by my beautiful and clever dog, Gypsy. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+ 
+&lt;p&gt;I did my undergraduate work at Kansas State University, where I initially wanted to go into veterinary medicine, changing my mind at the last semester to go to graduate school.&lt;/p&gt;
+ 
+&lt;p&gt;I did my master's work at Fort Hays State University with &lt;a href="http://bigcat.fhsu.edu/biology/rchannell/"&gt;Rob Channell&lt;/a&gt;, who introduced me to the wonderful world of macroecology, leading me to become a &lt;a href="http://weecology.org/"&gt;Weecologist&lt;/a&gt; in the &lt;a href="http://whitelab.weecology.org/"&gt;White lab&lt;/a&gt; at &lt;a href="http://www.usu.edu/"&gt;Utah State University&lt;/a&gt;, where I was a member of the &lt;a href="https://www.biology.usu.edu/"&gt;Biology Department&lt;/a&gt; and the &lt;a href="http://www.usu.edu/ecology/"&gt;Ecology Center&lt;/a&gt;&amp;nbsp;until I completed my Ph.D. in May 2015.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Currently, I'm an early career scientist trying to find gainful employment: a bit difficult to find a job regardless, but rather more so with a chronic illness. &amp;nbsp;I'm determined to make people say no to me until they get tired of me and start saying yes.&lt;/p&gt;
+ 
+&lt;p&gt;I believe that science can advance most quickly when researchers are willing to freely share data and ideas and am a major supporter of open science. &amp;nbsp;&lt;/p&gt;{collage_DSCN1200}
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+ 
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+ 
+&lt;p&gt;I was diagnosed with fibromyalgia in December 2013, after a certain amount of struggle to figure out what was going wrong in the first place. &amp;nbsp;Some of the story of how that has affected my ability to do research, and how I have adapted can be found here: &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/"&gt;http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/"&gt;http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/&lt;/a&gt;&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;a href="http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//"&gt;http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Links to addititional material can be found on my CV.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="sidebar1">
+   <menuWidget name="art_vmenu-1" position="0" title="Pages">
+    <content>&lt;div class="art-vmenublock clearfix"&gt;
+        &lt;div class="art-vmenublockheader"&gt;
+            &lt;h3 class="t"  &gt;Pages&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class="art-vmenublockcontent" &gt;
+&lt;ul class="art-vmenu"&gt;
+	&lt;li&gt;
+		&lt;a href="/new-page" class="active"&gt;Home&lt;/a&gt;
+		&lt;ul class="active"&gt;
+			&lt;li&gt;
+                &lt;a href="/new-page/new-page" &gt;Research&lt;/a&gt;
+		&lt;ul &gt;
+			&lt;li&gt;
+                &lt;a href="/new-page/new-page/new-page-2" &gt;Master&amp;#39;s research&lt;/a&gt;
+
+            &lt;/li&gt;
+			&lt;li&gt;
+                &lt;a href="/new-page/new-page/doctoral-research" &gt;Doctoral research&lt;/a&gt;
+
+            &lt;/li&gt;
+		&lt;/ul&gt;
+
+            &lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/calendar" &gt;Calendar&lt;/a&gt;
+	&lt;/li&gt;	
+	&lt;li&gt;
+		&lt;a href="/about-me" &gt;About me&lt;/a&gt;
+	&lt;/li&gt;	
+&lt;/ul&gt;
+                
+        &lt;/div&gt;
+&lt;/div&gt;
+</content>
+    <pageHead></pageHead>
+   </menuWidget>
+   <block name="text-1" position="1" title="Contact Information">
+    <content>&lt;p style="line-height: 100%; padding-left: 20px; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;span style="color: rgb(71, 80, 39);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;Email:&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&amp;nbsp;&lt;span style="color: rgb(52, 59, 29);"&gt;elita.baldridge@weecology.org&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&amp;nbsp;Twitter: &lt;span style="color: #475027;"&gt;elitabaldridge&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;span style="color: rgb(71, 80, 39);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;GitHub: &lt;span style="color: rgb(71, 80, 39);"&gt;embaldridge&lt;/span&gt;&lt;span style="color: #475027;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;span style="color: rgb(71, 80, 39);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;a href="https://impactstory.org/ElitaBa"&gt;Impact Story profile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;span style="color: rgb(71, 80, 39);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;iframe src="http://figshare.com/badges/6/99140" frameborder="0" height="80" width="140"&gt;&lt;/iframe&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;span style="color: #475027;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style="line-height: 100%; margin-bottom: 0px; margin-top: 0px;" class="paragraph_style_1"&gt;&lt;a href="https://github.com/embaldridge/CV-master/blob/master/Baldridge_CV.pdf"&gt;&lt;span style="font-size: 14px;"&gt;See my CV.&lt;/span&gt;&lt;/a&gt;&lt;span style="color: rgb(16, 16, 12); font-size: 13px;"&gt;&lt;span style="font-size: 14px;"&gt;&lt;/span&gt;&lt;a href="http://weecology.org/people/elitabaldridge/Baldridge_CV.pdf" style="text-decoration: none; color: rgb(0, 0, 0);"&gt;&lt;span style="color: rgb(88, 99, 48);"&gt;&lt;span style="font-size: 14px; color: rgb(83, 90, 29);"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="color: #475027;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <pageHead></pageHead>
+   </block>
+  </sidebar>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages>
+  <collage name="collage_DSCN1200">
+   <content>&lt;div id="DSCN1200" style="position: relative; display: inline-block; z-index: 0; margin: 5px;  border-width: 0px;  " class="art-collage"&gt;
+&lt;div class="art-slider art-slidecontainerDSCN1200" data-width="677" data-height="507"&gt;
+    &lt;div class="art-slider-inner"&gt;
+&lt;div class="art-slide-item art-slideDSCN12000" &gt;
+
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slideDSCN12001" &gt;
+
+
+&lt;/div&gt;
+&lt;div class="art-slide-item art-slideDSCN12002" &gt;
+
+
+&lt;/div&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-slidenavigator art-slidenavigatorDSCN1200" data-left="1" data-top="1"&gt;
+&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;&lt;a href="#" class="art-slidenavigatoritem"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+
+    &lt;/div&gt;
+</content>
+  </collage>
+ </collages>
+</site>
