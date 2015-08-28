@@ -1,4 +1,0 @@
-embaldridge.github.io
-=====================
-
-Webpage
